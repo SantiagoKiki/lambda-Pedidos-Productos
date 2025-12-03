@@ -1,6 +1,6 @@
 [
   {
-    "code": "PED-2025-0001",
+    "code": "PED-2025-1111",
     "estadoActual": "DROPSHIPPING",
     "historialEstados": [],
     "tipoPedido": "DIFERIDO",
@@ -24,7 +24,7 @@
     "updated_at": "2025-12-03T04:20:43.917118"
   },
   {
-    "code": "PED-2025-0002",
+    "code": "PED-2025-1112",
     "estadoActual": "BORDADO",
     "historialEstados": [],
     "tipoPedido": "DIFERIDO",
@@ -45,7 +45,7 @@
     "updated_at": "2025-12-03T04:20:43.917143"
   },
   {
-    "code": "PED-2025-0003",
+    "code": "PED-2025-1113",
     "estadoActual": "BORDADO",
     "historialEstados": [],
     "tipoPedido": "DIFERIDO",
@@ -66,7 +66,7 @@
     "updated_at": "2025-12-03T04:20:43.917157"
   },
   {
-    "code": "PED-2025-0004",
+    "code": "PED-2025-1114",
     "estadoActual": "RECHAZADO X VERIFICAR",
     "historialEstados": [],
     "tipoPedido": "DIFERIDO",
@@ -88,7 +88,7 @@
     "updated_at": "2025-12-03T04:20:43.917175"
   },
   {
-    "code": "PED-2025-0005",
+    "code": "PED-2025-1115",
     "estadoActual": "DESPACHADO",
     "historialEstados": [],
     "tipoPedido": "DIFERIDO",
@@ -112,7 +112,7 @@
     "updated_at": "2025-12-03T04:20:43.917189"
   },
   {
-    "code": "PED-2025-0006",
+    "code": "PED-2025-1116",
     "estadoActual": "ANULADO",
     "historialEstados": [],
     "tipoPedido": "DIFERIDO",
@@ -137,7 +137,7 @@
     "updated_at": "2025-12-03T04:20:43.917202"
   },
   {
-    "code": "PED-2025-0007",
+    "code": "PED-2025-1117",
     "estadoActual": "COMPRA",
     "historialEstados": [],
     "tipoPedido": "DIFERIDO",
@@ -167,7 +167,7 @@
     "updated_at": "2025-12-03T04:20:43.917215"
   },
   {
-    "code": "PED-2025-0008",
+    "code": "PED-2025-1118",
     "estadoActual": "ALISTAMIENTO",
     "historialEstados": [],
     "tipoPedido": "DIFERIDO",
@@ -199,7 +199,7 @@
     "updated_at": "2025-12-03T04:20:43.917232"
   },
   {
-    "code": "PED-2025-0009",
+    "code": "PED-2025-1119",
     "estadoActual": "TR\u00c1NSITO",
     "historialEstados": [],
     "tipoPedido": "DIFERIDO",
@@ -220,7 +220,7 @@
     "updated_at": "2025-12-03T04:20:43.917246"
   },
   {
-    "code": "PED-2025-0010",
+    "code": "PED-2025-1110",
     "estadoActual": "DESPACHADO X FACTURAR",
     "historialEstados": [],
     "tipoPedido": "INMEDIATO",
@@ -244,7 +244,7 @@
     "updated_at": "2025-12-03T04:20:43.917258"
   },
   {
-    "code": "PED-2025-0011",
+    "code": "PED-2025-1111",
     "estadoActual": "TR\u00c1NSITO",
     "historialEstados": [],
     "tipoPedido": "INMEDIATO",
@@ -277,7 +277,7 @@
     "updated_at": "2025-12-03T04:20:43.917272"
   },
   {
-    "code": "PED-2025-0012",
+    "code": "PED-2025-1112",
     "estadoActual": "DESPACHADO X FACTURAR",
     "historialEstados": [],
     "tipoPedido": "DIFERIDO",
@@ -310,7 +310,7 @@
     "updated_at": "2025-12-03T04:20:43.917287"
   },
   {
-    "code": "PED-2025-0013",
+    "code": "PED-2025-1113",
     "estadoActual": "BORDADO",
     "historialEstados": [],
     "tipoPedido": "DIFERIDO",
@@ -336,7 +336,7 @@
     "updated_at": "2025-12-03T04:20:43.917304"
   },
   {
-    "code": "PED-2025-0014",
+    "code": "PED-2025-1114",
     "estadoActual": "COTIZACI\u00d3N",
     "historialEstados": [],
     "tipoPedido": "INMEDIATO",
@@ -364,7 +364,7 @@
     "updated_at": "2025-12-03T04:20:43.917324"
   },
   {
-    "code": "PED-2025-0015",
+    "code": "PED-2025-1115",
     "estadoActual": "COMPRA",
     "historialEstados": [],
     "tipoPedido": "INMEDIATO",
@@ -388,7 +388,7 @@
     "updated_at": "2025-12-03T04:20:43.917342"
   },
   {
-    "code": "PED-2025-0016",
+    "code": "PED-2025-1116",
     "estadoActual": "ENTREGADO",
     "historialEstados": [],
     "tipoPedido": "INMEDIATO",
@@ -413,7 +413,7 @@
     "updated_at": "2025-12-03T04:20:43.917355"
   },
   {
-    "code": "PED-2025-0017",
+    "code": "PED-2025-1117",
     "estadoActual": "PRODUCCI\u00d3N",
     "historialEstados": [],
     "tipoPedido": "INMEDIATO",
@@ -438,7 +438,7 @@
     "updated_at": "2025-12-03T04:20:43.917366"
   },
   {
-    "code": "PED-2025-0018",
+    "code": "PED-2025-1118",
     "estadoActual": "DESPACHADO X FACTURAR",
     "historialEstados": [],
     "tipoPedido": "DIFERIDO",
@@ -470,7 +470,7 @@
     "updated_at": "2025-12-03T04:20:43.917379"
   },
   {
-    "code": "PED-2025-0019",
+    "code": "PED-2025-1119",
     "estadoActual": "COMPRA",
     "historialEstados": [],
     "tipoPedido": "INMEDIATO",
@@ -492,7 +492,7 @@
     "updated_at": "2025-12-03T04:20:43.917390"
   },
   {
-    "code": "PED-2025-0020",
+    "code": "PED-2025-1120",
     "estadoActual": "RECHAZADO X VERIFICAR",
     "historialEstados": [],
     "tipoPedido": "DIFERIDO",
@@ -516,7 +516,7 @@
     "updated_at": "2025-12-03T04:20:43.917401"
   },
   {
-    "code": "PED-2025-0021",
+    "code": "PED-2025-1121",
     "estadoActual": "VERIFICADO",
     "historialEstados": [],
     "tipoPedido": "INMEDIATO",
@@ -544,7 +544,7 @@
     "updated_at": "2025-12-03T04:20:43.917413"
   },
   {
-    "code": "PED-2025-0022",
+    "code": "PED-2025-1122",
     "estadoActual": "ANULADO",
     "historialEstados": [],
     "tipoPedido": "INMEDIATO",
@@ -570,7 +570,7 @@
     "updated_at": "2025-12-03T04:20:43.917436"
   },
   {
-    "code": "PED-2025-0023",
+    "code": "PED-2025-1123",
     "estadoActual": "ANULADO",
     "historialEstados": [],
     "tipoPedido": "INMEDIATO",
@@ -593,7 +593,7 @@
     "updated_at": "2025-12-03T04:20:43.917447"
   },
   {
-    "code": "PED-2025-0024",
+    "code": "PED-2025-1124",
     "estadoActual": "PRODUCCI\u00d3N",
     "historialEstados": [],
     "tipoPedido": "INMEDIATO",
@@ -624,7 +624,7 @@
     "updated_at": "2025-12-03T04:20:43.917460"
   },
   {
-    "code": "PED-2025-0025",
+    "code": "PED-2025-1125",
     "estadoActual": "PRODUCCI\u00d3N",
     "historialEstados": [],
     "tipoPedido": "INMEDIATO",
@@ -647,7 +647,7 @@
     "updated_at": "2025-12-03T04:20:43.917471"
   },
   {
-    "code": "PED-2025-0026",
+    "code": "PED-2025-1126",
     "estadoActual": "VERIFICADO",
     "historialEstados": [],
     "tipoPedido": "INMEDIATO",
@@ -671,7 +671,7 @@
     "updated_at": "2025-12-03T04:20:43.917482"
   },
   {
-    "code": "PED-2025-0027",
+    "code": "PED-2025-1127",
     "estadoActual": "DESPACHADO",
     "historialEstados": [],
     "tipoPedido": "DIFERIDO",
@@ -701,7 +701,7 @@
     "updated_at": "2025-12-03T04:20:43.917494"
   },
   {
-    "code": "PED-2025-0028",
+    "code": "PED-2025-1128",
     "estadoActual": "ALISTAMIENTO",
     "historialEstados": [],
     "tipoPedido": "DIFERIDO",
@@ -733,7 +733,7 @@
     "updated_at": "2025-12-03T04:20:43.917507"
   },
   {
-    "code": "PED-2025-0029",
+    "code": "PED-2025-1129",
     "estadoActual": "TR\u00c1NSITO",
     "historialEstados": [],
     "tipoPedido": "DIFERIDO",
@@ -762,7 +762,7 @@
     "updated_at": "2025-12-03T04:20:43.917528"
   },
   {
-    "code": "PED-2025-0030",
+    "code": "PED-2025-1130",
     "estadoActual": "VERIFICADO",
     "historialEstados": [],
     "tipoPedido": "INMEDIATO",
@@ -789,7 +789,7 @@
     "updated_at": "2025-12-03T04:20:43.917540"
   },
   {
-    "code": "PED-2025-0031",
+    "code": "PED-2025-1131",
     "estadoActual": "POR VERIFICAR",
     "historialEstados": [],
     "tipoPedido": "INMEDIATO",
@@ -820,7 +820,7 @@
     "updated_at": "2025-12-03T04:20:43.917560"
   },
   {
-    "code": "PED-2025-0032",
+    "code": "PED-2025-1132",
     "estadoActual": "ENTREGADO",
     "historialEstados": [],
     "tipoPedido": "INMEDIATO",
@@ -847,7 +847,7 @@
     "updated_at": "2025-12-03T04:20:43.917580"
   },
   {
-    "code": "PED-2025-0033",
+    "code": "PED-2025-1133",
     "estadoActual": "TR\u00c1NSITO",
     "historialEstados": [],
     "tipoPedido": "DIFERIDO",
@@ -877,7 +877,7 @@
     "updated_at": "2025-12-03T04:20:43.917597"
   },
   {
-    "code": "PED-2025-0034",
+    "code": "PED-2025-1134",
     "estadoActual": "DEVUELTO",
     "historialEstados": [],
     "tipoPedido": "DIFERIDO",
@@ -910,7 +910,7 @@
     "updated_at": "2025-12-03T04:20:43.917619"
   },
   {
-    "code": "PED-2025-0035",
+    "code": "PED-2025-1135",
     "estadoActual": "ALISTAMIENTO",
     "historialEstados": [],
     "tipoPedido": "DIFERIDO",
@@ -941,7 +941,7 @@
     "updated_at": "2025-12-03T04:20:43.917637"
   },
   {
-    "code": "PED-2025-0036",
+    "code": "PED-2025-1136",
     "estadoActual": "VERIFICADO",
     "historialEstados": [],
     "tipoPedido": "DIFERIDO",
@@ -969,7 +969,7 @@
     "updated_at": "2025-12-03T04:20:43.917648"
   },
   {
-    "code": "PED-2025-0037",
+    "code": "PED-2025-1137",
     "estadoActual": "TR\u00c1NSITO",
     "historialEstados": [],
     "tipoPedido": "INMEDIATO",
@@ -994,7 +994,7 @@
     "updated_at": "2025-12-03T04:20:43.917665"
   },
   {
-    "code": "PED-2025-0038",
+    "code": "PED-2025-1138",
     "estadoActual": "BORDADO",
     "historialEstados": [],
     "tipoPedido": "INMEDIATO",
@@ -1017,7 +1017,7 @@
     "updated_at": "2025-12-03T04:20:43.917682"
   },
   {
-    "code": "PED-2025-0039",
+    "code": "PED-2025-1139",
     "estadoActual": "EMPACADO X DESPACHAR",
     "historialEstados": [],
     "tipoPedido": "DIFERIDO",
@@ -1038,7 +1038,7 @@
     "updated_at": "2025-12-03T04:20:43.917702"
   },
   {
-    "code": "PED-2025-0040",
+    "code": "PED-2025-1140",
     "estadoActual": "TR\u00c1NSITO",
     "historialEstados": [],
     "tipoPedido": "INMEDIATO",
@@ -1059,7 +1059,7 @@
     "updated_at": "2025-12-03T04:20:43.917712"
   },
   {
-    "code": "PED-2025-0041",
+    "code": "PED-2025-1141",
     "estadoActual": "DESPACHADO X FACTURAR",
     "historialEstados": [],
     "tipoPedido": "INMEDIATO",
@@ -1086,7 +1086,7 @@
     "updated_at": "2025-12-03T04:20:43.917724"
   },
   {
-    "code": "PED-2025-0042",
+    "code": "PED-2025-1142",
     "estadoActual": "DROPSHIPPING",
     "historialEstados": [],
     "tipoPedido": "INMEDIATO",
@@ -1112,7 +1112,7 @@
     "updated_at": "2025-12-03T04:20:43.917736"
   },
   {
-    "code": "PED-2025-0043",
+    "code": "PED-2025-1143",
     "estadoActual": "PRODUCCI\u00d3N",
     "historialEstados": [],
     "tipoPedido": "INMEDIATO",
@@ -1142,7 +1142,7 @@
     "updated_at": "2025-12-03T04:20:43.917749"
   },
   {
-    "code": "PED-2025-0044",
+    "code": "PED-2025-1144",
     "estadoActual": "DESPACHADO",
     "historialEstados": [],
     "tipoPedido": "INMEDIATO",
@@ -1166,7 +1166,7 @@
     "updated_at": "2025-12-03T04:20:43.917760"
   },
   {
-    "code": "PED-2025-0045",
+    "code": "PED-2025-1145",
     "estadoActual": "RECHAZADO X VERIFICAR",
     "historialEstados": [],
     "tipoPedido": "DIFERIDO",
@@ -1189,7 +1189,7 @@
     "updated_at": "2025-12-03T04:20:43.917770"
   },
   {
-    "code": "PED-2025-0046",
+    "code": "PED-2025-1146",
     "estadoActual": "DROPSHIPPING",
     "historialEstados": [],
     "tipoPedido": "DIFERIDO",
@@ -1219,7 +1219,7 @@
     "updated_at": "2025-12-03T04:20:43.917793"
   },
   {
-    "code": "PED-2025-0047",
+    "code": "PED-2025-1147",
     "estadoActual": "EMPACADO X DESPACHAR",
     "historialEstados": [],
     "tipoPedido": "DIFERIDO",
@@ -1250,7 +1250,7 @@
     "updated_at": "2025-12-03T04:20:43.917813"
   },
   {
-    "code": "PED-2025-0048",
+    "code": "PED-2025-1148",
     "estadoActual": "DESPACHADO X FACTURAR",
     "historialEstados": [],
     "tipoPedido": "INMEDIATO",
@@ -1274,7 +1274,7 @@
     "updated_at": "2025-12-03T04:20:43.917840"
   },
   {
-    "code": "PED-2025-0049",
+    "code": "PED-2025-1149",
     "estadoActual": "EMPACADO X DESPACHAR",
     "historialEstados": [],
     "tipoPedido": "INMEDIATO",
@@ -1296,7 +1296,7 @@
     "updated_at": "2025-12-03T04:20:43.917851"
   },
   {
-    "code": "PED-2025-0050",
+    "code": "PED-2025-1150",
     "estadoActual": "EMPACADO X DESPACHAR",
     "historialEstados": [],
     "tipoPedido": "INMEDIATO",
